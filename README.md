@@ -1,4 +1,4 @@
-![Julius's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliuschanjq&hide=stars,issues&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliuschanjq&layout=donut-vertical)](https://github.com/juliuschanjq/github-readme-stats)
 
 
 
